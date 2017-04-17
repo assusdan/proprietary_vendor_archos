@@ -445,6 +445,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/y560/proprietary/bin/radish:system/bin/radish \
     vendor/huawei/y560/proprietary/bin/rild:system/bin/rild \
     vendor/huawei/y560/proprietary/bin/rmt_storage:system/bin/rmt_storage \
+    vendor/huawei/y560/proprietary/bin/sensord:system/bin/sensord \
     vendor/huawei/y560/proprietary/bin/serialnoread:system/bin/serialnoread \
     vendor/huawei/y560/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/huawei/y560/proprietary/bin/vm_bms:system/bin/vm_bms \
@@ -477,6 +478,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/y560/proprietary/etc/quipc.conf:system/etc/quipc.conf \
     vendor/huawei/y560/proprietary/etc/sap.conf:system/etc/sap.conf \
     vendor/huawei/y560/proprietary/lib/hw/camera.msm8909.so:system/lib/hw/camera.msm8909.so \
+    vendor/huawei/y560/proprietary/lib/hw/sensors.msm8909.so:system/lib/hw/sensors.msm8909.so \
     vendor/huawei/y560/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
     vendor/huawei/y560/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/huawei/y560/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
