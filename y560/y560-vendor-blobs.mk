@@ -434,6 +434,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/y560/proprietary/vendor/lib/libts_face_beautify_jni.so:system/vendor/lib/libts_face_beautify_jni.so \
     vendor/huawei/y560/proprietary/vendor/lib/libtzdrmgenprov.so:system/vendor/lib/libtzdrmgenprov.so \
     vendor/huawei/y560/proprietary/bin/adsprpcd:system/bin/adsprpcd \
+    vendor/huawei/y560/proprietary/bin/sensord:system/bin/sensord \
     vendor/huawei/y560/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/huawei/y560/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/huawei/y560/proprietary/bin/irsc_util:system/bin/irsc_util \
@@ -445,7 +446,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/y560/proprietary/bin/radish:system/bin/radish \
     vendor/huawei/y560/proprietary/bin/rild:system/bin/rild \
     vendor/huawei/y560/proprietary/bin/rmt_storage:system/bin/rmt_storage \
-    vendor/huawei/y560/proprietary/bin/sensord:system/bin/sensord \
     vendor/huawei/y560/proprietary/bin/serialnoread:system/bin/serialnoread \
     vendor/huawei/y560/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/huawei/y560/proprietary/bin/vm_bms:system/bin/vm_bms \
