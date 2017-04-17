@@ -477,7 +477,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/y560/proprietary/etc/quipc.conf:system/etc/quipc.conf \
     vendor/huawei/y560/proprietary/etc/sap.conf:system/etc/sap.conf \
     vendor/huawei/y560/proprietary/lib/hw/camera.msm8909.so:system/lib/hw/camera.msm8909.so \
-    vendor/huawei/y560/proprietary/lib/hw/sensors.msm8909.so:system/lib/hw/sensors.msm8909.so \
     vendor/huawei/y560/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
     vendor/huawei/y560/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/huawei/y560/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
