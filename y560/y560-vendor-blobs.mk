@@ -480,7 +480,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/y560/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/huawei/y560/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
     vendor/huawei/y560/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
-    vendor/huawei/y560/proprietary/lib/hw/camera.msm8909.so:system/lib/hw/camera.msm8909.so \
     vendor/huawei/y560/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
     vendor/huawei/y560/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/huawei/y560/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
