@@ -16,6 +16,7 @@
 
 PRODUCT_COPY_FILES += \
     vendor/archos/ac50ehe/proprietary/vendor/lib/libactuator_iu074_camera.so:system/vendor/lib/libactuator_iu074_camera.so \
+    vendor/archos/ac50ehe/proprietary/vendor/lib/libboringssl-compat.so:system/vendor/lib/libboringssl-compat.so \
     vendor/archos/ac50ehe/proprietary/vendor/lib/libchromatix_ov5648_8909_liveshot.so:system/vendor/lib/libchromatix_ov5648_8909_liveshot.so \
     vendor/archos/ac50ehe/proprietary/vendor/lib/libmmcamera_ov5670_30010a3.so:system/vendor/lib/libmmcamera_ov5670_30010a3.so \
     vendor/archos/ac50ehe/proprietary/vendor/lib/libactuator_dw9714_q13v04b_camera.so:system/vendor/lib/libactuator_dw9714_q13v04b_camera.so \
